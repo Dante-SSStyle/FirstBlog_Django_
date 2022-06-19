@@ -10,7 +10,7 @@
 
 <code>python manage.py createsuperuser</code>
 
-####Cайт администрирования:
+#### Cайт администрирования:
 
 http://localhost:8000/admin/blog1/
 
