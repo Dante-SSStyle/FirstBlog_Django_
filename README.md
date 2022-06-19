@@ -1,10 +1,8 @@
-#FirstBlog
+# FirstBlog
 
-##Первый Django блог
-
-###Start
-
-####Локально, сервер разработчика
+## Первый Django блог
+### Start
+#### Локально, сервер разработчика
 
 <code>python manage.py runserver</code>
 
